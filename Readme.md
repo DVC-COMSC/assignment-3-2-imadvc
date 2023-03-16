@@ -6,3 +6,7 @@
 -->
 
 ## Complete the "main.py"
+
+# Input: Email by user
+# Function: We have to recgonize if the inupt has a @ which would make it recgnize an email was inputed. Afterwards, the email needs to meet certain length requirments in order to be valid. 
+# Output: Is the email valid or invalid based on if it has the right characteristcs, numbers, grammer, etc. 
